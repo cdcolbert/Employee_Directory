@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cdcolbert/employeedirectory/static/css/main.55dbe9fa.chunk.css",
+    "main.js": "/cdcolbert/employeedirectory/static/js/main.166d877e.chunk.js",
+    "main.js.map": "/cdcolbert/employeedirectory/static/js/main.166d877e.chunk.js.map",
+    "runtime-main.js": "/cdcolbert/employeedirectory/static/js/runtime-main.ef08df1d.js",
+    "runtime-main.js.map": "/cdcolbert/employeedirectory/static/js/runtime-main.ef08df1d.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/cdcolbert/employeedirectory/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.5c2a0ce7.chunk.js": "/cdcolbert/employeedirectory/static/js/2.5c2a0ce7.chunk.js",
+    "static/js/2.5c2a0ce7.chunk.js.map": "/cdcolbert/employeedirectory/static/js/2.5c2a0ce7.chunk.js.map",
+    "index.html": "/cdcolbert/employeedirectory/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/cdcolbert/employeedirectory/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.55dbe9fa.chunk.css.map": "/cdcolbert/employeedirectory/static/css/main.55dbe9fa.chunk.css.map",
+    "static/js/2.5c2a0ce7.chunk.js.LICENSE.txt": "/cdcolbert/employeedirectory/static/js/2.5c2a0ce7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef08df1d.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.5c2a0ce7.chunk.js",
+    "static/css/main.55dbe9fa.chunk.css",
+    "static/js/main.166d877e.chunk.js"
+  ]
+}
